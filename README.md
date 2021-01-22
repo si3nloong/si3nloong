@@ -12,6 +12,13 @@ Hi, I'm head of software engineering from [WeTix Sdn. Bhd.](https://wetix.my) (M
 - LinkedIn : [SianLoong](https://my.linkedin.com/in/lee-sian-loong-7b4a3037)
 
 <!--START_SECTION:waka-->
+```text
+Svelte       25 hrs 47 mins  █████████████▓░░░░░░░░░░░   55.24 % 
+TypeScript   6 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Go           5 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+JSON         3 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Markdown     2 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+```
 <!--END_SECTION:waka-->
 
 <!--
