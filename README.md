@@ -11,6 +11,7 @@ Hi, I'm head of software engineering from [WeTix Sdn. Bhd.](https://wetix.my) (M
 - Email : sianloong90@gmail.com
 - LinkedIn : [SianLoong](https://my.linkedin.com/in/lee-sian-loong-7b4a3037)
 
+## ⚡ Stat
 <!--START_SECTION:waka-->
 ```text
 Svelte       25 hrs 47 mins  █████████████▓░░░░░░░░░░░   55.24 % 
