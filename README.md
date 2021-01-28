@@ -7,10 +7,25 @@ Hi, I'm head of software engineering from [WeTix Sdn. Bhd.](https://wetix.my) (M
 - [WeTix](https://github.com/wetix)
 - [Responsive UI](https://github.com/wetix/responsive-ui)
 
-## 💬 Ask me about :
-- [Go](https://golang.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Svelte](https://svelte.dev/)
+## 🛼 I'm proficient in :
+- Programming Languages
+  - [Go](https://golang.org/)
+  - [JavaScript](https://www.javascript.com/)
+  - [TypeScript](https://www.typescriptlang.org/)
+  - [PHP](https://www.php.net/)
+  
+- Framework
+  - [Laravel](https://laravel.com/)
+  - [Lumen](https://lumen.laravel.com/)
+  - [React](https://reactjs.org/)
+  - [Svelte](https://svelte.dev/)
+  - [Flutter](https://flutter.dev/)
+  
+## 🪵 I'm good on :
+- [Vue](https://vuejs.org/)
+  
+## 🌱 I’m currently learning :
+- [Kotlin](https://kotlinlang.org/)
 
 ## 📫 How to reach me: 
 - Email : sianloong90@gmail.com
