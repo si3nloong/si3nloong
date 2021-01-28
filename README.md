@@ -7,6 +7,11 @@ Hi, I'm head of software engineering from [WeTix Sdn. Bhd.](https://wetix.my) (M
 - [WeTix](https://github.com/wetix)
 - [Responsive UI](https://github.com/wetix/responsive-ui)
 
+## 💬 Ask me about :
+- [Go](https://golang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Svelte](https://svelte.dev/)
+
 ## 📫 How to reach me: 
 - Email : sianloong90@gmail.com
 - LinkedIn : [SianLoong](https://my.linkedin.com/in/lee-sian-loong-7b4a3037)
