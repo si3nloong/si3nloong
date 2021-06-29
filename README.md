@@ -33,11 +33,11 @@ Hi, I'm head of software engineering from [WeTix Sdn. Bhd.](https://wetix.my) (M
 ## ⚡ Stat
 <!--START_SECTION:waka-->
 ```text
-Go         16 hrs          ██████████░░░░░░░░░░░░░░░   39.84 % 
-Kotlin     11 hrs 35 mins  ███████▒░░░░░░░░░░░░░░░░░   28.87 % 
-Markdown   4 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Other      3 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-YAML       2 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Kotlin     13 hrs 5 mins   █████████▒░░░░░░░░░░░░░░░   37.00 % 
+Go         10 hrs 58 mins  ███████▓░░░░░░░░░░░░░░░░░   31.01 % 
+Markdown   3 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Other      3 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+YAML       2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 ```
 <!--END_SECTION:waka-->
 
