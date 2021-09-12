@@ -33,11 +33,11 @@ Hi, I'm head of software engineering from [WeTix Sdn. Bhd.](https://wetix.my) (M
 ## ⚡ Stat
 <!--START_SECTION:waka-->
 ```text
-Go         24 hrs 30 mins  ███████████████████░░░░░░   76.17 % 
-YAML       1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-JSON       1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Markdown   1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Svelte     57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Go         26 hrs 3 mins   ███████████████████▒░░░░░   77.42 % 
+YAML       1 hr 54 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Markdown   1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+JSON       1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Svelte     57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 <!--END_SECTION:waka-->
 
