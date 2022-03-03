@@ -34,12 +34,12 @@ Hi, I'm head of software engineering from [WeTix Sdn. Bhd.](https://wetix.my) (M
 <!--START_SECTION:waka-->
 
 ```text
-Go                3 hrs 29 mins   ██████████████▓░░░░░░░░░░   58.09 %
-YAML              48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
-Svelte            35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-GraphQL           25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-Dart              13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Markdown          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Go                         2 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   32.24 %
+YAML                       2 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
+Docker                     52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+Svelte                     35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+Git Config                 26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+GraphQL                    25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
 ```
 
 <!--END_SECTION:waka-->
