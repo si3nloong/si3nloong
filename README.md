@@ -34,12 +34,12 @@ Hi, I'm head of software engineering from [WeTix Sdn. Bhd.](https://wetix.my) (M
 <!--START_SECTION:waka-->
 
 ```text
-YAML                       2 hrs 44 mins   ████████░░░░░░░░░░░░░░░░░   31.48 %
-Dart                       2 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   23.51 %
-Docker                     1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Markdown                   25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-Git Config                 23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-Groovy                     22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+YAML                       2 hrs 44 mins   ███████▒░░░░░░░░░░░░░░░░░   29.43 %
+Dart                       2 hrs 30 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
+Docker                     1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+Markdown                   39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+Git Config                 23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Groovy                     22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 ```
 
 <!--END_SECTION:waka-->
