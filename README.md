@@ -34,7 +34,9 @@ func main() {
 <code><a href="https://go.dev/"><img height="20" src="https://cdn.svgporn.com/logos/go.svg"></a></code>
 <code><a href="https://www.typescriptlang.org/"><img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></a></code>
 <code><a href="https://kotlinlang.org/"><img height="20" src="https://cdn.svgporn.com/logos/kotlin.svg"></a></code>
+<code><a href="https://developer.apple.com/swift/"><img height="20" src="https://cdn.svgporn.com/logos/swift.svg"></a></code>
 <code><a href="https://www.javascript.com/"><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></a></code>
+<code><a href="https://www.php.net/"><img height="20" src="https://cdn.svgporn.com/logos/php.svg"></a></code>
 <code><a href="https://dart.dev/"><img height="20" src="https://cdn.svgporn.com/logos/dart.svg"></a></code>
 <code><a href="https://flutter.dev/"><img height="20" src="https://cdn.svgporn.com/logos/flutter.svg"></a></code>
 <code><a href="https://vuejs.org/"><img height="20" src="https://cdn.svgporn.com/logos/vue.svg"></a></code>
