@@ -57,12 +57,9 @@ func main() {
 <code><img height="20" src="https://cdn.svgporn.com/logos/nats.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/grpc.svg"></code>
 
-<br/>
-
 ## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40px" /> Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=si3nloong&show_icons=true&include_all_commits=true&hide_title=true" />
-<br/>
 
 <!--START_SECTION:waka-->
 
