@@ -37,13 +37,13 @@ func main() {
 <code><a href="https://www.javascript.com/"><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></a></code>
 <code><a href="https://dart.dev/"><img height="20" src="https://cdn.svgporn.com/logos/dart.svg"></a></code>
 <code><a href="https://flutter.dev/"><img height="20" src="https://cdn.svgporn.com/logos/flutter.svg"></a></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/vue.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/react.svg"></code>
+<code><a href="https://vuejs.org/"><img height="20" src="https://cdn.svgporn.com/logos/vue.svg"></a></code>
+<code><a href="https://reactjs.org/"><img height="20" src="https://cdn.svgporn.com/logos/react.svg"></a></code>
 <code><a href="https://svelte.dev/"><img height="20" src="https://cdn.svgporn.com/logos/svelte-icon.svg"></a></code>
 <code><a href="https://nodejs.org/en/"><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></a></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/vitejs.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/eslint.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/prettier.svg"></code>
+<code><a href="https://vitejs.dev/"><img height="20" src="https://cdn.svgporn.com/logos/vitejs.svg"></a></code>
+<code><a href="https://eslint.org/"><img height="20" src="https://cdn.svgporn.com/logos/eslint.svg"></a></code>
+<code><a href="https://prettier.io/"><img height="20" src="https://cdn.svgporn.com/logos/prettier.svg"></a></code>
 <code><a href="https://rollupjs.org"><img height="20" src="https://cdn.svgporn.com/logos/rollupjs.svg"></a></code>
 <code><a href="https://sass-lang.com/"><img height="20" src="https://cdn.svgporn.com/logos/sass.svg"></a></code>
 <code><a href="https://storybook.js.org/"><img height="20" src="https://cdn.svgporn.com/logos/storybook-icon.svg"></a></code>
@@ -54,7 +54,6 @@ func main() {
 <code><a href="https://redis.io/"><img height="20" src="https://cdn.svgporn.com/logos/redis.svg"></a></code>
 <code><a href="https://www.elastic.co/"><img height="20" src="https://cdn.svgporn.com/logos/elasticsearch.svg"></a></code>
 <code><a href="https://swagger.io/"><img height="20" src="https://cdn.svgporn.com/logos/swagger.svg"></a></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/pwa.svg"></code>
 <code><a href="https://www.docker.com/"><img height="20" src="https://cdn.svgporn.com/logos/docker-icon.svg"></a></code>
 <code><a href="https://kubernetes.io/"><img height="20" src="https://cdn.svgporn.com/logos/kubernetes.svg"></a></code>
 <code><a href="https://nats.io/"><img height="20" src="https://cdn.svgporn.com/logos/nats.svg"></a></code>
