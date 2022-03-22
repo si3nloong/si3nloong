@@ -34,12 +34,11 @@ Hi, I'm head of software engineering from [WeTix Sdn. Bhd.](https://wetix.my) (M
 <!--START_SECTION:waka-->
 
 ```text
-Go                1 hr 11 mins    █████████████▒░░░░░░░░░░░   52.92 %
-Markdown          23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
-JSON              10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-Vue.js            9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-Bash              5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-Other             5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Go                1 hr 11 mins    ██████████████░░░░░░░░░░░   55.58 %
+Markdown          23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.18 %
+JSON              10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Vue.js            9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Other             5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
 ```
 
 <!--END_SECTION:waka-->
