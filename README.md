@@ -68,10 +68,7 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-YAML              1 hr 10 mins    ████████████████████████░   95.52 %
-Go                2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-GraphQL           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+YAML   1 hr 10 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
