@@ -68,7 +68,12 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+GitIgnore file   12 mins         ███████▓░░░░░░░░░░░░░░░░░   31.21 %
+Groovy           8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
+Dart             8 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
+Properties       5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+Shell Script     3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+XML              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
