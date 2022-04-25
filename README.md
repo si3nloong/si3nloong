@@ -68,12 +68,7 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-GitIgnore file   12 mins         ███████▓░░░░░░░░░░░░░░░░░   31.18 %
-Groovy           8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
-Dart             8 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
-Properties       5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
-Shell Script     3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-XML              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Properties   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
