@@ -68,7 +68,8 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Dart   38 mins         █████████████████████░░░░   84.54 %
+Go     7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
 ```
 
 <!--END_SECTION:waka-->
