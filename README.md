@@ -1,6 +1,6 @@
 
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Who am I?
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" height="50px"> Who am I?
 
 ```go
 package main
@@ -22,6 +22,10 @@ var aboutMe = struct{
     LinkedIn: "https://my.linkedin.com/in/lee-sian-loong-7b4a3037",
     Medium: "https://medium.com/@sianloong90",
     FavouriteProgrammingLanguages: []string{"Go", "TypeScript", "Kotlin"},
+    OpenSources: []string{
+        "https://github.com/wetix/responsive-ui",
+        "https://github.com/si3nloong/sqlike",
+    },
 }
 
 func main() {
