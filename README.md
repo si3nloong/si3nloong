@@ -29,7 +29,7 @@ func main() {
 }
 ```
 
-## <img src="https://media.giphy.com/media/WmiXmdQ1KNlGa7srHF/giphy.gif" width="40px" /> Technologies and Tools
+## <img src="https://media.giphy.com/media/WmiXmdQ1KNlGa7srHF/giphy.gif" width="40px" height="40px" /> Technologies and Tools
 
 <code><a href="https://go.dev/"><img height="20" src="https://cdn.svgporn.com/logos/go.svg"></a></code>
 <code><a href="https://www.typescriptlang.org/"><img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></a></code>
@@ -61,7 +61,7 @@ func main() {
 <code><a href="https://nats.io/"><img height="20" src="https://cdn.svgporn.com/logos/nats.svg"></a></code>
 <code><a href="https://grpc.io/"><img height="20" src="https://cdn.svgporn.com/logos/grpc.svg"></a></code>
 
-## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40px" /> Stats
+## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" height="40px" width="40px" /> Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=si3nloong&show_icons=true&include_all_commits=true&hide_title=true" />
 
