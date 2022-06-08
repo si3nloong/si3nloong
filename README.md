@@ -72,10 +72,10 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-Svelte          8 hrs 41 mins   ██████████░░░░░░░░░░░░░░░   40.38 %
-TypeScript      5 hrs 40 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
-Dart            3 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
-Other           1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Svelte          8 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   37.93 %
+TypeScript      6 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   28.85 %
+Dart            2 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+Other           1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
 ```
 
 <!--END_SECTION:waka-->
