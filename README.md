@@ -72,12 +72,12 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   17 hrs 52 mins  ███████████▓░░░░░░░░░░░░░   46.48 %
-Svelte       8 hrs 33 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.26 %
-JSON         7 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
-Markdown     1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-YAML         1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-JavaScript   42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+TypeScript   16 hrs 51 mins  ██████████▓░░░░░░░░░░░░░░   42.04 %
+JSON         8 hrs 39 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
+Svelte       7 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   19.79 %
+YAML         1 hr 37 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Markdown     1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+JavaScript   1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
