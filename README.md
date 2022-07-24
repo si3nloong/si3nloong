@@ -19,11 +19,9 @@ var aboutMe = struct{
     Name: "Lee Sian Loong",
     Overview: `A guy who are very passionate in Frontend Development, Architecture Design and Opensource.`,
     Email: "sianloong90@gmail.com",
-    LinkedIn: "https://my.linkedin.com/in/lee-sian-loong-7b4a3037",
     Medium: "https://medium.com/@sianloong90",
     FavouriteProgrammingLanguages: []string{"Go", "TypeScript", "Kotlin"},
     OpenSources: []string{
-        "https://github.com/wetix/responsive-ui",
         "https://github.com/si3nloong/sqlike",
     },
 }
