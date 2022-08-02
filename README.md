@@ -70,8 +70,8 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-Dart         2 hrs 21 mins   █████████▓░░░░░░░░░░░░░░░   38.65 %
-Other        59 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+Dart         1 hr 25 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
+Other        1 hr 18 mins    ██████░░░░░░░░░░░░░░░░░░░   23.69 %
 ```
 
 <!--END_SECTION:waka-->
