@@ -10,19 +10,27 @@ import (
 )
 
 var aboutMe = struct{
-    Name string
-    Overview string
-    LinkedIn string
-    Medium string
+    Name                          string
+    Overview                      string
+    Email                         string
+    LinkedIn                      string
+    Medium                        string
     FavouriteProgrammingLanguages []string
+    OpenSources                   []string
 }{
     Name: "Lee Sian Loong",
     Overview: `A guy who are very passionate in Frontend Development, Architecture Design and Opensource.`,
     Email: "sianloong90@gmail.com",
+    LinkedIn: "https://www.linkedin.com/in/sian-loong-7b4a3037",
     Medium: "https://medium.com/@sianloong90",
     FavouriteProgrammingLanguages: []string{"Go", "TypeScript", "Kotlin"},
     OpenSources: []string{
         "https://github.com/si3nloong/sqlike",
+        "https://github.com/ReactiveX/RxGo",
+        "https://github.com/si3nloong/webhook",
+        "https://github.com/si3nloong/svelte-hook-form",
+        "https://github.com/si3nloong/macos_tree_view",
+        "https://github.com/wetix/responsive-ui",
     },
 }
 
