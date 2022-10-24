@@ -71,7 +71,7 @@ func main() {
 <code><a href="https://nats.io/"><img height="20" src="https://cdn.svgporn.com/logos/nats.svg"></a></code>
 <code><a href="https://grpc.io/"><img height="20" src="https://cdn.svgporn.com/logos/grpc.svg"></a></code>
 <code><a href="https://argoproj.github.io/argo-workflows/"><img height="20" src="https://cdn.svgporn.com/logos/argo.svg"></a></code>
-<code><a href="https://www.rancher.com/"><img height="20" src="https://cdn.svgporn.com/logos/rancher.svg"></a></code>
+<code><a href="https://www.rancher.com/"><img height="20" src="https://cdn.svgporn.com/logos/rancher-icon.svg"></a></code>
 
 ## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" height="40px" width="40px" /> Stats
 
