@@ -80,12 +80,7 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-Go           0 secs          ███████████▒░░░░░░░░░░░░░   45.18 %
-Markdown     0 secs          ███████░░░░░░░░░░░░░░░░░░   28.20 %
-YAML         0 secs          ██████▒░░░░░░░░░░░░░░░░░░   25.06 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-GraphQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
