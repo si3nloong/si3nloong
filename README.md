@@ -80,12 +80,12 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   18 hrs 28 mins  ████████████░░░░░░░░░░░░░   48.66 %
-Go           8 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
-TypeScript   3 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-Svelte       2 hrs 39 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-Markdown     1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-JSON         1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+JavaScript   15 hrs 32 mins  ██████████▒░░░░░░░░░░░░░░   41.56 %
+Go           12 hrs 9 mins   ████████░░░░░░░░░░░░░░░░░   32.51 %
+TypeScript   3 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Svelte       2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Markdown     1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Cheetah      46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
