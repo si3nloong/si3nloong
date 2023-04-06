@@ -80,8 +80,7 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-Bash    0 secs          ███████████████░░░░░░░░░░   59.46 %
-Other   0 secs          ██████████░░░░░░░░░░░░░░░   40.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
