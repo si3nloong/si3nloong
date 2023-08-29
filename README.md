@@ -80,11 +80,11 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       12 hrs 24 mins  ███████████░░░░░░░░░░░░░░   44.29 %
-Svelte           11 hrs 27 mins  ██████████▒░░░░░░░░░░░░░░   40.91 %
-GraphQL          1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-JavaScript       53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-JSON             24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+TypeScript       11 hrs 49 mins  ███████████▓░░░░░░░░░░░░░   47.25 %
+Svelte           9 hrs 40 mins   █████████▓░░░░░░░░░░░░░░░   38.61 %
+GraphQL          1 hr 51 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+YAML             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+JavaScript       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
