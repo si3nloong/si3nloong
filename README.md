@@ -80,11 +80,11 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-Go           31 hrs 53 mins  ████████████████▒░░░░░░░░   64.87 %
-JavaScript   5 hrs 50 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-Markdown     3 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-YAML         3 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Smarty       2 hrs 24 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Go           32 hrs 2 mins   █████████████████▒░░░░░░░   69.97 %
+JavaScript   4 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+Markdown     2 hrs 33 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+Smarty       2 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+YAML         2 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
 ```
 
 <!--END_SECTION:waka-->
