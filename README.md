@@ -80,7 +80,11 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML         25 mins         ██████████████████░░░░░░░   72.64 %
+JSON         5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
+Go           2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Svelte       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
