@@ -76,11 +76,7 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-Go       2 hrs 45 mins   ████████████████████████▒   97.58 %
-TOML     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Bash     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
