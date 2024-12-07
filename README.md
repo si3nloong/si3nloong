@@ -76,7 +76,9 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Smarty   40 mins         █████████████▓░░░░░░░░░░░   54.56 %
+Go       33 mins         ███████████░░░░░░░░░░░░░░   44.29 %
+YAML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
