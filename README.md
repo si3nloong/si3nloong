@@ -76,8 +76,8 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte   17 mins         ████████████████████████░   96.06 %
-SCSS     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Svelte   49 mins         ████████████████████████▓   98.58 %
+SCSS     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
