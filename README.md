@@ -76,7 +76,8 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other    16 mins         █████████████████████▒░░░   85.33 %
+Kotlin   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
 ```
 
 <!--END_SECTION:waka-->
