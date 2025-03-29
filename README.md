@@ -76,9 +76,7 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 51 mins    ████████████████░░░░░░░░░   63.57 %
-Svelte       1 hr 2 mins     █████████░░░░░░░░░░░░░░░░   35.39 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Markdown   51 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
