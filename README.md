@@ -76,7 +76,10 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   51 mins         █████████████████████████   100.00 %
+Markdown     51 mins         ██████████░░░░░░░░░░░░░░░   40.10 %
+TypeScript   50 mins         ██████████░░░░░░░░░░░░░░░   39.75 %
+Svelte       24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.36 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
