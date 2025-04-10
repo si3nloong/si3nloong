@@ -76,11 +76,11 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript          1 hr 44 mins    ████████████████████▒░░░░   81.17 %
-Svelte              19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
-Java Properties     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Gradle Kotlin DSL   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Dart                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+TypeScript          1 hr 44 mins    ████████████▓░░░░░░░░░░░░   50.19 %
+Dart                1 hr 3 mins     ███████▓░░░░░░░░░░░░░░░░░   30.61 %
+Svelte              20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+XML                 7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Gradle Kotlin DSL   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
 ```
 
 <!--END_SECTION:waka-->
