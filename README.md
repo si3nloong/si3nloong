@@ -76,8 +76,9 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   2 mins          █████████████████████▒░░░   84.69 %
-Other    0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
+Kotlin   2 mins          ████████████░░░░░░░░░░░░░   47.63 %
+Svelte   2 mins          ███████████░░░░░░░░░░░░░░   43.76 %
+Other    0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
 ```
 
 <!--END_SECTION:waka-->
