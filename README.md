@@ -76,11 +76,11 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-Go                                 13 hrs 3 mins   ████████████▒░░░░░░░░░░░░   49.06 %
-Markdown                           3 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Dart                               3 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-YAML                               1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Protocol Buffer                    1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Go                                 9 hrs 56 mins   ██████████▓░░░░░░░░░░░░░░   42.40 %
+Dart                               3 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
+Markdown                           3 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+YAML                               1 hr 53 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Protocol Buffer                    1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 ```
 
 <!--END_SECTION:waka-->
