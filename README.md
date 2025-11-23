@@ -76,11 +76,11 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                       10 hrs 56 mins  █████████████████░░░░░░░░   68.58 %
-YAML                       2 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
-Other                      47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-Nginx configuration file   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-Docker                     30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Dart                       11 hrs 1 min    ███████████████▒░░░░░░░░░   60.82 %
+YAML                       2 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
+Svelte                     53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Other                      47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Nginx configuration file   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 ```
 
 <!--END_SECTION:waka-->
