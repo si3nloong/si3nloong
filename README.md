@@ -76,7 +76,10 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go                58 mins               ██████████████████████▒░░   89.89 %
+Makefile          3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Protocol Buffer   2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+JSON              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
