@@ -76,11 +76,11 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    3 hrs 14 mins         ██████░░░░░░░░░░░░░░░░░░░   23.56 %
-Astro         3 hrs 8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.88 %
-Go            2 hrs 23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
-MDX           1 hr 47 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-JavaScript    1 hr 20 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+Astro         3 hrs 8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
+TypeScript    2 hrs 57 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.20 %
+Go            2 hrs 23 mins         █████░░░░░░░░░░░░░░░░░░░░   20.36 %
+Markdown      1 hr 3 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+JavaScript    52 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
 ```
 
 <!--END_SECTION:waka-->
