@@ -76,9 +76,7 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       1 hr 9 mins           █████████████████████▒░░░   84.79 %
-TypeScript   11 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
